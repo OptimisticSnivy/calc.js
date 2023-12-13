@@ -1,0 +1,13 @@
+body{
+    background-color: #1f2937;
+}
+
+.container{
+    color: paleturquoise;
+    display: flex;
+    font-size: 100px;
+    font-family: "Inconsolata",Lato,sans-serif;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
